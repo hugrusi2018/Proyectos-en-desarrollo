@@ -1,0 +1,15 @@
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\bin\Release\la_tinaja.exe
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\bin\Release\la_tinaja.pdb
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\ResolveAssemblyReference.cache
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.fr_inicio.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.fr_acceso.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.fr_menu.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.fr_pedido.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.Properties.Resources.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\GenerateResource.read.1.tlog
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\GenerateResource.write.1.tlog
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.exe
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.pdb
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.fr_plantilla.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.cliente.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Release\la_tinaja.Resources.factura.resources

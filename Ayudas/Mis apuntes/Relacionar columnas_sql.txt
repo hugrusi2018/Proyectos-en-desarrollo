@@ -1,0 +1,3 @@
+alter table [Empleado] 
+add foreign KEY (IdGrupo) references
+Grupo_Empleados(IdGrupo)

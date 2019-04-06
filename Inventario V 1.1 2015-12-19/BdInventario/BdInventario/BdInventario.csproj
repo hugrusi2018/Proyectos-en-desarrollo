@@ -1,0 +1,1003 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DC6D88FE-0B8B-4250-9DE0-CB8661E4BC19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BdInventario</RootNamespace>
+    <AssemblyName>BdInventario</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\BdInventario.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\BdInventario.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>BdInventario.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.8.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bdinventarioDataSetCiudades.cs">
+      <DependentUpon>bdinventarioDataSetCiudades.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetEmpleados.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetEmpleados.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetProveedores.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetProveedores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetSubgrupo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetSubgrupo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetTipousuario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetTipousuario.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Data.cs" />
+    <Compile Include="Frmauditoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmauditoria.Designer.cs">
+      <DependentUpon>Frmauditoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetActividad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetActividad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetAFP.cs">
+      <DependentUpon>bdinventarioDataSetAFP.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetAFP.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetAFP.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetAlmacen.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetAlmacen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetARP.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetARP.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetAuditoria.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetAuditoria.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetCargos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetCargos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetCiudades.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetCiudades.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdInventarioDataSetCliente.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdInventarioDataSetCliente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetEPS.cs">
+      <DependentUpon>bdinventarioDataSetEPS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetEPS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetEPS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetFormapago.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetFormapago.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetGrupoEmpl.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetGrupoEmpl.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetGruposanguineo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetGruposanguineo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetGruprod.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetGruprod.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetImpuetos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetImpuetos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetPais.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetPais.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetProductos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetProductos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetRegimen.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetRegimen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetTipodocumentos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetTipodocumentos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdinventarioDataSetUnidad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdinventarioDataSetUnidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Frmconsultaempleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconsultaempleados.Designer.cs">
+      <DependentUpon>Frmconsultaempleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmconsultaproductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconsultaproductos.Designer.cs">
+      <DependentUpon>Frmconsultaproductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\DataGridViewPrinter.cs" />
+    <Compile Include="Frmafp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmafp.Designer.cs">
+      <DependentUpon>Frmafp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmactividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmactividad.Designer.cs">
+      <DependentUpon>Frmactividad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmalmacen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmalmacen.Designer.cs">
+      <DependentUpon>Frmalmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmarp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmarp.Designer.cs">
+      <DependentUpon>Frmarp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmcargos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmcargos.Designer.cs">
+      <DependentUpon>Frmcargos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmciudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmciudad.Designer.cs">
+      <DependentUpon>Frmciudad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmclientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmclientes.Designer.cs">
+      <DependentUpon>Frmclientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmconsultadocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconsultadocumentos.Designer.cs">
+      <DependentUpon>Frmconsultadocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmconsultaproveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconsultaproveedores.Designer.cs">
+      <DependentUpon>Frmconsultaproveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmconsultastock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconsultastock.Designer.cs">
+      <DependentUpon>Frmconsultastock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmempleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmempleados.Designer.cs">
+      <DependentUpon>Frmempleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frminfoempresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frminfoempresa.Designer.cs">
+      <DependentUpon>Frminfoempresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmenu.Designer.cs">
+      <DependentUpon>Frmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fracceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fracceso.Designer.cs">
+      <DependentUpon>Fracceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmeps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmeps.Designer.cs">
+      <DependentUpon>Frmeps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmformapago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmformapago.Designer.cs">
+      <DependentUpon>Frmformapago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmgrupoempleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmgrupoempleados.Designer.cs">
+      <DependentUpon>Frmgrupoempleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmgrupoproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmgrupoproducto.Designer.cs">
+      <DependentUpon>Frmgrupoproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmimpuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmimpuestos.Designer.cs">
+      <DependentUpon>Frmimpuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmovimientoproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmovimientoproducto.Designer.cs">
+      <DependentUpon>Frmovimientoproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmpais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmpais.Designer.cs">
+      <DependentUpon>Frmpais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmproductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmproductos.Designer.cs">
+      <DependentUpon>Frmproductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmproveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmproveedores.Designer.cs">
+      <DependentUpon>Frmproveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmregimen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmregimen.Designer.cs">
+      <DependentUpon>Frmregimen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreporteclientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreporteclientes.Designer.cs">
+      <DependentUpon>Frmreporteclientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreportedocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreportedocumentos.Designer.cs">
+      <DependentUpon>Frmreportedocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreportempleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreportempleados.Designer.cs">
+      <DependentUpon>Frmreportempleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreporteproductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreporteproductos.Designer.cs">
+      <DependentUpon>Frmreporteproductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreporteproveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreporteproveedores.Designer.cs">
+      <DependentUpon>Frmreporteproveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmsubgrupoproductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmsubgrupoproductos.Designer.cs">
+      <DependentUpon>Frmsubgrupoproductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmtipodocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmtipodocumentos.Designer.cs">
+      <DependentUpon>Frmtipodocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmtiposangre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmtiposangre.Designer.cs">
+      <DependentUpon>Frmtiposangre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmconsultaclientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconsultaclientes.Designer.cs">
+      <DependentUpon>Frmconsultaclientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmunidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmunidades.Designer.cs">
+      <DependentUpon>Frmunidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmusuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmusuarios.Designer.cs">
+      <DependentUpon>Frmusuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\funciones.cs" />
+    <Compile Include="MostrarMovimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostrarMovimientos.Designer.cs">
+      <DependentUpon>MostrarMovimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Planticonsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Planticonsultas.Designer.cs">
+      <DependentUpon>Planticonsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plantillareportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plantillareportes.Designer.cs">
+      <DependentUpon>Plantillareportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plantiparam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plantiparam.Designer.cs">
+      <DependentUpon>Plantiparam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plantiterceros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plantiterceros.Designer.cs">
+      <DependentUpon>Plantiterceros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frmauditoria.resx">
+      <DependentUpon>Frmauditoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmconsultaclientes.resx">
+      <DependentUpon>Frmconsultaclientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmconsultaempleados.resx">
+      <DependentUpon>Frmconsultaempleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmconsultaproductos.resx">
+      <DependentUpon>Frmconsultaproductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmafp.resx">
+      <DependentUpon>Frmafp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmactividad.resx">
+      <DependentUpon>Frmactividad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmalmacen.resx">
+      <DependentUpon>Frmalmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmarp.resx">
+      <DependentUpon>Frmarp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmcargos.resx">
+      <DependentUpon>Frmcargos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmciudad.resx">
+      <DependentUpon>Frmciudad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmclientes.resx">
+      <DependentUpon>Frmclientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmconsultadocumentos.resx">
+      <DependentUpon>Frmconsultadocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmconsultaproveedores.resx">
+      <DependentUpon>Frmconsultaproveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmconsultastock.resx">
+      <DependentUpon>Frmconsultastock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmempleados.resx">
+      <DependentUpon>Frmempleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frminfoempresa.resx">
+      <DependentUpon>Frminfoempresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmenu.resx">
+      <DependentUpon>Frmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fracceso.resx">
+      <DependentUpon>Fracceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmeps.resx">
+      <DependentUpon>Frmeps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmformapago.resx">
+      <DependentUpon>Frmformapago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmgrupoempleados.resx">
+      <DependentUpon>Frmgrupoempleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmgrupoproducto.resx">
+      <DependentUpon>Frmgrupoproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmimpuestos.resx">
+      <DependentUpon>Frmimpuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmovimientoproducto.resx">
+      <DependentUpon>Frmovimientoproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmpais.resx">
+      <DependentUpon>Frmpais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmproductos.resx">
+      <DependentUpon>Frmproductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmproveedores.resx">
+      <DependentUpon>Frmproveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmregimen.resx">
+      <DependentUpon>Frmregimen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreporteclientes.resx">
+      <DependentUpon>Frmreporteclientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreportedocumentos.resx">
+      <DependentUpon>Frmreportedocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreportempleados.resx">
+      <DependentUpon>Frmreportempleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreporteproductos.resx">
+      <DependentUpon>Frmreporteproductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreporteproveedores.resx">
+      <DependentUpon>Frmreporteproveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmsubgrupoproductos.resx">
+      <DependentUpon>Frmsubgrupoproductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmtipodocumentos.resx">
+      <DependentUpon>Frmtipodocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmtiposangre.resx">
+      <DependentUpon>Frmtiposangre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmunidades.resx">
+      <DependentUpon>Frmunidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmusuarios.resx">
+      <DependentUpon>Frmusuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MostrarMovimientos.resx">
+      <DependentUpon>MostrarMovimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Planticonsultas.resx">
+      <DependentUpon>Planticonsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plantillareportes.resx">
+      <DependentUpon>Plantillareportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plantiparam.resx">
+      <DependentUpon>Plantiparam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plantiterceros.resx">
+      <DependentUpon>Plantiterceros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rptdocumentos.rdlc" />
+    <EmbeddedResource Include="Rptproveedores.rdlc" />
+    <EmbeddedResource Include="Rptproductos.rdlc" />
+    <EmbeddedResource Include="Rptclientes.rdlc" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetAuditoria.xsc">
+      <DependentUpon>bdinventarioDataSetAuditoria.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetAuditoria.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetAuditoria.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetAuditoria.xss">
+      <DependentUpon>bdinventarioDataSetAuditoria.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetCiudades.xsc">
+      <DependentUpon>bdinventarioDataSetCiudades.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetCiudades.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetCiudades.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetCiudades.xss">
+      <DependentUpon>bdinventarioDataSetCiudades.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetEmpleados.xsc">
+      <DependentUpon>bdinventarioDataSetEmpleados.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetEmpleados.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>bdinventarioDataSetEmpleados.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="bdinventarioDataSetEmpleados.xss">
+      <DependentUpon>bdinventarioDataSetEmpleados.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetGruposanguineo.xsc">
+      <DependentUpon>bdinventarioDataSetGruposanguineo.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetGruposanguineo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetGruposanguineo.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetGruposanguineo.xss">
+      <DependentUpon>bdinventarioDataSetGruposanguineo.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetProductos.xsc">
+      <DependentUpon>bdinventarioDataSetProductos.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetProductos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetProductos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetProductos.xss">
+      <DependentUpon>bdinventarioDataSetProductos.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetProveedores.xsc">
+      <DependentUpon>bdinventarioDataSetProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetProveedores.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetProveedores.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetProveedores.xss">
+      <DependentUpon>bdinventarioDataSetProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetSubgrupo.xsc">
+      <DependentUpon>bdinventarioDataSetSubgrupo.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetSubgrupo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetSubgrupo.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetSubgrupo.xss">
+      <DependentUpon>bdinventarioDataSetSubgrupo.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetTipodocumentos.xsc">
+      <DependentUpon>bdinventarioDataSetTipodocumentos.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetTipodocumentos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetTipodocumentos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetTipodocumentos.xss">
+      <DependentUpon>bdinventarioDataSetTipodocumentos.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetTipousuario.xsc">
+      <DependentUpon>bdinventarioDataSetTipousuario.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetTipousuario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetTipousuario.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetTipousuario.xss">
+      <DependentUpon>bdinventarioDataSetTipousuario.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetUnidad.xsc">
+      <DependentUpon>bdinventarioDataSetUnidad.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetUnidad.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetUnidad.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetUnidad.xss">
+      <DependentUpon>bdinventarioDataSetUnidad.xsd</DependentUpon>
+    </None>
+    <None Include="Image &amp; Icon\app.config" />
+    <None Include="bdinventarioDataSetActividad.xsc">
+      <DependentUpon>bdinventarioDataSetActividad.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetActividad.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetActividad.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetActividad.xss">
+      <DependentUpon>bdinventarioDataSetActividad.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetAFP.xsc">
+      <DependentUpon>bdinventarioDataSetAFP.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetAFP.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetAFP.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetAFP.xss">
+      <DependentUpon>bdinventarioDataSetAFP.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetAlmacen.xsc">
+      <DependentUpon>bdinventarioDataSetAlmacen.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetAlmacen.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetAlmacen.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetAlmacen.xss">
+      <DependentUpon>bdinventarioDataSetAlmacen.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetARP.xsc">
+      <DependentUpon>bdinventarioDataSetARP.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetARP.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetARP.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetARP.xss">
+      <DependentUpon>bdinventarioDataSetARP.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetCargos.xsc">
+      <DependentUpon>bdinventarioDataSetCargos.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetCargos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetCargos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetCargos.xss">
+      <DependentUpon>bdinventarioDataSetCargos.xsd</DependentUpon>
+    </None>
+    <None Include="bdInventarioDataSetCliente.xsc">
+      <DependentUpon>bdInventarioDataSetCliente.xsd</DependentUpon>
+    </None>
+    <None Include="bdInventarioDataSetCliente.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdInventarioDataSetCliente.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdInventarioDataSetCliente.xss">
+      <DependentUpon>bdInventarioDataSetCliente.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetEPS.xsc">
+      <DependentUpon>bdinventarioDataSetEPS.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetEPS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetEPS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetEPS.xss">
+      <DependentUpon>bdinventarioDataSetEPS.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetFormapago.xsc">
+      <DependentUpon>bdinventarioDataSetFormapago.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetFormapago.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetFormapago.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetFormapago.xss">
+      <DependentUpon>bdinventarioDataSetFormapago.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetGrupoEmpl.xsc">
+      <DependentUpon>bdinventarioDataSetGrupoEmpl.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetGrupoEmpl.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetGrupoEmpl.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetGrupoEmpl.xss">
+      <DependentUpon>bdinventarioDataSetGrupoEmpl.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetGruprod.xsc">
+      <DependentUpon>bdinventarioDataSetGruprod.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetGruprod.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetGruprod.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetGruprod.xss">
+      <DependentUpon>bdinventarioDataSetGruprod.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetImpuetos.xsc">
+      <DependentUpon>bdinventarioDataSetImpuetos.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetImpuetos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetImpuetos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetImpuetos.xss">
+      <DependentUpon>bdinventarioDataSetImpuetos.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetPais.xsc">
+      <DependentUpon>bdinventarioDataSetPais.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetPais.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetPais.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetPais.xss">
+      <DependentUpon>bdinventarioDataSetPais.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetRegimen.xsc">
+      <DependentUpon>bdinventarioDataSetRegimen.xsd</DependentUpon>
+    </None>
+    <None Include="bdinventarioDataSetRegimen.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdinventarioDataSetRegimen.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdinventarioDataSetRegimen.xss">
+      <DependentUpon>bdinventarioDataSetRegimen.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\logo.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\imagen portada.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05052012051.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Ciuades.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Actividad comercial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\AFP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\EPS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\ARP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\empresa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Cargo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\pais.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\impuestos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Forma pago.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\almacen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\anterior.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Lada_soft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Logo empresa\logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

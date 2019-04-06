@@ -1,0 +1,15 @@
+private void cmdeliminar_Click(object sender, EventArgs e)
+        {
+		DialogResult resultado = MessageBox.Show("¿Desea eliminar el registro?", "AVISO", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (resultado == DialogResult.No)
+            {
+                return;
+            }
+            MySqlCommand eliminar = new MySqlCommand("delete from grupo_sanguineo where idsangre=@id", miconexion);
+            eliminar.Parameters.AddWithValue("id", txtidsangre.Text);
+            miconexion.Open();
+            eliminar.ExecuteNonQuery();
+            miconexion.Close();            
+            MessageBox.Show("Registro Eliminado!");
+                        
+        }

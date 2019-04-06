@@ -1,0 +1,2 @@
+alter table [Movimientos_Almacen]
+Add IdProveedor  nvarchar(20)not null

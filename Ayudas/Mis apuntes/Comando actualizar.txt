@@ -1,0 +1,12 @@
+private void button1_Click(object sender, EventArgs e)
+        {
+            MySqlCommand comando = new MySqlCommand("update grupo_sanguineo set nombre_grupo_sanguineo=@nombre where idsangre=@id", miconexion);
+            comando.Parameters.AddWithValue("id", txtidsangre.Text);
+            comando.Parameters.AddWithValue("nombre", txtsangre.Text);
+            miconexion.Open();
+            comando.ExecuteNonQuery();
+            miconexion.Close();
+            
+            MessageBox.Show("Registro actualizado!");
+             
+        }      

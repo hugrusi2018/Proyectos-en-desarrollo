@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1CC71583-9E77-4FA2-BAF4-59F755A1B31E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>la_tinaja</RootNamespace>
+    <AssemblyName>la_tinaja</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="botones.cs" />
+    <Compile Include="cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cliente.Designer.cs">
+      <DependentUpon>cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_accesocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_accesocs.Designer.cs">
+      <DependentUpon>fr_accesocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_cambiocontraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_cambiocontraseña.Designer.cs">
+      <DependentUpon>fr_cambiocontraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_factura.Designer.cs">
+      <DependentUpon>fr_factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_menu.Designer.cs">
+      <DependentUpon>fr_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_pacceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_pacceso.Designer.cs">
+      <DependentUpon>fr_pacceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_parametros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_parametros.Designer.cs">
+      <DependentUpon>fr_parametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_pedido.Designer.cs">
+      <DependentUpon>fr_pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_plantilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_plantilla.Designer.cs">
+      <DependentUpon>fr_plantilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\factura.Designer.cs">
+      <DependentUpon>factura.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cliente.resx">
+      <DependentUpon>cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_accesocs.resx">
+      <DependentUpon>fr_accesocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_cambiocontraseña.resx">
+      <DependentUpon>fr_cambiocontraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_factura.resx">
+      <DependentUpon>fr_factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_menu.resx">
+      <DependentUpon>fr_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_pacceso.resx">
+      <DependentUpon>fr_pacceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_parametros.resx">
+      <DependentUpon>fr_parametros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_pedido.resx">
+      <DependentUpon>fr_pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_plantilla.resx">
+      <DependentUpon>fr_plantilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources\factura.resx">
+      <DependentUpon>factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la_tinaja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la_tinaja1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la_tinaja2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la_tinaja3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la_tinaja31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Tinaja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la_tinaja1.2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crear-carpeta-Hotmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la_tinaja1.21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7d298020.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconsLandVistaElementsIconsDemo-PNG-256x256-Wait.png-256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrador2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-del-restaurante-de-diseno-vectorial-material-chef_15-9722.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1337644386_button-rew_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-begin_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-begin_basic_yellow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1337644360_button-end_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-ff_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-check_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-cross_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1337644262_navigation-left-button_basic_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9583090-un-camarero-teniendo-a-pedido-de-los-clientes-del-restaurante.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Impugnaran-reforma-de-ley-de-administracion-financiera_16575.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pedidos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\out-6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\que-es-el-jefe-seguridad-cso-tienes-que-neces-L-vUcT1_.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soporte-informatico.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2012-02-07 a la%28s%29 10_40_04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2012-02-07 a la%28s%29 10_40_041.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plato1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plato2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mesero.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\softrestaurant2010-mesero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\objetivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\softrestaurant2010-mesero1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fileprint.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338759414_printer_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filesave.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cancel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338770135_Gnome-Document-Save-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338770219_diagram-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338771066_camera_test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338771126_tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338771191_bullet_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338771321_001_06.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cancel1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338772558_gtk-cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1302555135105.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1338784927_invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_usuarios.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

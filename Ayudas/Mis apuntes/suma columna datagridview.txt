@@ -1,0 +1,7 @@
+//Se suman los valores de la columna
+ var suma = dg_Alquiler.Rows.Cast<DataGridViewRow>().Sum(x => Convert.ToInt32(x.Cells["Total"].Value));
+
+ //Se muestra la suma de los valores de la columna
+
+ txt_TotalPagar.Text = Convert.ToString(suma);
+

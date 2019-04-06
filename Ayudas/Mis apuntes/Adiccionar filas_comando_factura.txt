@@ -1,0 +1,32 @@
+   //ciclo_guarda facturas
+
+        void guarda_factura()
+        {
+
+            for (int a = 0; a < data1.RowCount; a++)
+            {
+                if (data1.Rows[a].IsNewRow) continue;
+                {
+                    SqlCommand grabar = new SqlCommand("insert into detalle_factura(codigo_comida,nombre_producto,valor,cantidad,valor_total,subtotal,iva,total_a_pagar,factura_Asociada)values(@cod_com,@nom,@valorunitario,@cantidad,@valortotal_comida,@subtot,@iva,@totapag,@nfact)", tinajita);
+                    grabar.Parameters.AddWithValue("cod_com", data1.Rows[a].Cells["cod1"].Value);
+                    grabar.Parameters.AddWithValue("nom", data1.Rows[a].Cells["name"].Value);
+                    grabar.Parameters.AddWithValue("valorunitario", data1.Rows[a].Cells["val2"].Value);
+                    grabar.Parameters.AddWithValue("cantidad", data1.Rows[a].Cells["cant1"].Value);
+                    grabar.Parameters.AddWithValue("valortotal_comida", data1.Rows[a].Cells["tot"].Value);
+                    grabar.Parameters.AddWithValue("subtot", textBox13.Text);
+                    grabar.Parameters.AddWithValue("iva", textBox4.Text);
+                    grabar.Parameters.AddWithValue("totapag", textBox5.Text);
+                    grabar.Parameters.AddWithValue("nfact", textBox8.Text);
+                    tinajita.Open();
+                    grabar.ExecuteNonQuery();
+                    tinajita.Close();
+                       
+                
+                }
+                
+
+
+            }
+        }
+
+

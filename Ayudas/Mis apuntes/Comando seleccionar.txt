@@ -1,0 +1,12 @@
+void cargadatos()
+        {
+            MySqlCommand comando = new MySqlCommand("select * from grupo_sanguineo where nombre_grupo_sanguineo='" + cmbsangre.Text + "'", miconexion);
+            miconexion.Open();
+            MySqlDataReader leer = comando.ExecuteReader();
+            if (leer.Read())
+            {
+                txtidsangre.Text = leer.GetString(0);
+                txtsangre.Text = leer.GetString(1);                
+            }
+            miconexion.Close();
+        }

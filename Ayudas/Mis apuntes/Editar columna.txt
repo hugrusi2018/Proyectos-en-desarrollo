@@ -1,0 +1,2 @@
+alter table [Actividad_Comercial]
+alter column NombreActividad nvarchar(30) not null

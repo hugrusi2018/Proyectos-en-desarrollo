@@ -1,0 +1,388 @@
+C:\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+C:\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+C:\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csproj.GenerateResource.Cache
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csprojResolveAssemblyReference.cache
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividades.resources
+C:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantillaparametros.resources
+D:\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividades.resources
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Semestre IV\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmplantillaparametros.resources
+D:\Semestre V\Programacion III\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Semestre V\Programacion III\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Semestre V\Programacion III\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividades.resources
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmplantillaparametros.resources
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Semestre V\Programacion III\BdInventario\BdInventario\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividades.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmplantillaparametros.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario - copia\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividades.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmplantillaparametros.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Semestre V\Trabajo de Grado\Copia seguridad BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividades.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmplantillaparametros.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\2012-09-09 BdInventario\BdInventario\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmafp.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividad.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmalmacen.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmarp.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmcargos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmciudad.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmeps.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmformapago.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoempleados.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoproducto.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmimpuestos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmovimientoproducto.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmpais.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproductos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmregimen.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmsubgrupoproductos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtipodocumentos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtiposangre.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiparam.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmclientes.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiterceros.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Consultaclientes.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Consultadocumentos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Planticonsultas.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproveedores.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frminfoempresa.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmempleados.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmusuarios.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmunidades.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csprojResolveAssemblyReference.cache
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmauditoria.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaclientes.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaempleados.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproductos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmafp.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividad.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmalmacen.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmarp.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmcargos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmciudad.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmclientes.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultadocumentos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproveedores.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultastock.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmempleados.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frminfoempresa.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmeps.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmformapago.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoempleados.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoproducto.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmimpuestos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmovimientoproducto.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmpais.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproductos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproveedores.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmregimen.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteclientes.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportedocumentos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportempleados.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproductos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproveedores.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmsubgrupoproductos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtipodocumentos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtiposangre.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmunidades.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmusuarios.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.MostrarMovimientos.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Planticonsultas.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantillareportes.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiparam.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiterceros.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csproj.GenerateResource.Cache
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\Debug\MySql.Data.dll
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\bin\Debug\MySql.Data.dll
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csprojResolveAssemblyReference.cache
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmauditoria.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmafp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmalmacen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmarp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmcargos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmciudad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultadocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultastock.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frminfoempresa.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmeps.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmformapago.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmimpuestos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmovimientoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmpais.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmregimen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportedocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmsubgrupoproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtipodocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtiposangre.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmunidades.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmusuarios.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.MostrarMovimientos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Planticonsultas.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantillareportes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiparam.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiterceros.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\Terminados\BdInventario V 1.1 2015-11-14\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csproj.GenerateResource.Cache
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmauditoria.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmafp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmalmacen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmarp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmcargos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmciudad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultadocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultastock.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frminfoempresa.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmeps.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmformapago.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmimpuestos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmovimientoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmpais.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmregimen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportedocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmsubgrupoproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtipodocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtiposangre.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmunidades.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmusuarios.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.MostrarMovimientos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Planticonsultas.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantillareportes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiparam.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiterceros.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csproj.GenerateResource.Cache
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\bin\Debug\MySql.Data.dll
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-12\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csprojResolveAssemblyReference.cache
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csprojResolveAssemblyReference.cache
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmauditoria.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmafp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmalmacen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmarp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmcargos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmciudad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultadocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultastock.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frminfoempresa.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmeps.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmformapago.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmimpuestos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmovimientoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmpais.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmregimen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportedocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmsubgrupoproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtipodocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtiposangre.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmunidades.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmusuarios.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.MostrarMovimientos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Planticonsultas.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantillareportes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiparam.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiterceros.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csproj.GenerateResource.Cache
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16\BdInventario\BdInventario\bin\Debug\MySql.Data.dll
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16 - copia\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16 - copia\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-16 - copia\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\bin\Debug\BdInventario.exe.config
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\bin\Debug\BdInventario.exe
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\bin\Debug\BdInventario.pdb
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\bin\Debug\MySql.Data.dll
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmauditoria.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmafp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmactividad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmalmacen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmarp.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmcargos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmciudad.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultadocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultaproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmconsultastock.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frminfoempresa.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmenu.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Fracceso.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmeps.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmformapago.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmgrupoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmimpuestos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmovimientoproducto.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmpais.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmregimen.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteclientes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportedocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreportempleados.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmreporteproveedores.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmsubgrupoproductos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtipodocumentos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmtiposangre.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmunidades.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Frmusuarios.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.MostrarMovimientos.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Planticonsultas.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantillareportes.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiparam.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Plantiterceros.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.Properties.Resources.resources
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csproj.GenerateResource.Cache
+D:\Google Drive\Personal\Proyectos Sistemas de Informacion\En Desarrollo\Inventario V 1.1 2015-12-19\BdInventario\BdInventario\obj\x86\Debug\BdInventario.csprojResolveAssemblyReference.cache

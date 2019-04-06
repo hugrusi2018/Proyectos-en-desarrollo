@@ -1,0 +1,9 @@
+
+            SqlCommand Autonumerico = new SqlCommand("select count (IdActividad) from Actividad_Comercial", miconexion);
+            miconexion.Open(); 
+            SqlDataReader le = Autonumerico.ExecuteReader(); 
+            if (le.Read()) 
+            { 
+                txtidactiv.Text = Convert.ToString(le.GetValue(0)); 
+            } 
+            miconexion.Close(); 

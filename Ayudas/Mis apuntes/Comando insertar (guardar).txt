@@ -1,0 +1,28 @@
+private void cmdgrabar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtsangre.Text == "")
+                {
+                    MessageBox.Show("No ha insertado datos");
+                    txtsangre.Focus();
+                } 
+                
+                else
+                {                   
+                    MySqlCommand grabar = new MySqlCommand("Insert into grupo_sanguineo(nombre_grupo_sanguineo)values(@nombre)", miconexion);
+                    grabar.Parameters.AddWithValue("nombre", txtsangre.Text);
+
+                    miconexion.Open();
+                    grabar.ExecuteNonQuery();
+                    miconexion.Close();
+
+                    MessageBox.Show("Registro Exitoso!");
+                                    
+                }                
+            }
+            catch
+            {
+                MessageBox.Show("Error");
+            }
+        }

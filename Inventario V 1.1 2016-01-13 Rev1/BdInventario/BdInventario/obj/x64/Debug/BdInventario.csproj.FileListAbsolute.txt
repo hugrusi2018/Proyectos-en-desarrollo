@@ -1,0 +1,156 @@
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\bin\x64\Debug\BdInventario.exe.config
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmafp.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmactividad.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmalmacen.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmarp.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmcargos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmciudad.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmenu.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Fracceso.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmeps.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmformapago.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmgrupoempleados.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmgrupoproducto.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmimpuestos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmovimientoproducto.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmpais.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmproductos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmregimen.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmsubgrupoproductos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmtipodocumentos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmtiposangre.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Plantiparam.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\bin\x64\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\bin\x64\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\bin\x64\Debug\BdInventario.exe.config
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Consultaclientes.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmafp.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmactividad.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmalmacen.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmarp.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmcargos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmciudad.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmclientes.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Consultadocumentos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmempleados.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frminfoempresa.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmenu.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Fracceso.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmeps.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmformapago.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmgrupoempleados.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmgrupoproducto.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmimpuestos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmovimientoproducto.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmpais.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmproductos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmproveedores.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmregimen.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmsubgrupoproductos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmtipodocumentos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmtiposangre.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmunidades.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Frmusuarios.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Planticonsultas.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Plantiparam.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Plantiterceros.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\GenerateResource.read.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\GenerateResource.write.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\bin\x64\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\BdInventario\bin\x64\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Properties.Resources.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\ResGen.read.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\ResGen.write.1.tlog
+D:\Semestre V\Trabajo de Grado\BdInventario\obj\x64\Debug\BdInventario.Reporte1.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmclientes.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmempleados.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frminfoempresa.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmproveedores.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmunidades.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmusuarios.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Planticonsultas.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Plantiterceros.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmauditoria.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaclientes.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaproductos.resources
+D:\Semestre V\Trabajo de Grado\bdinventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultadocumentos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaproveedores.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreporteclientes.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\RdlCompile.cache
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\RdlCompile.compiled
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaempleados.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Plantillareportes.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreportempleados.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreporteproductos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreporteproveedores.resources
+D:\Semestre V\Trabajo de Grado\Copias de BD+FormulariosVisual_BdInventario\2013-04-24 BdInventario_funciona mvto uno a uno\BdInventario\bin\x64\Debug\BdInventario.exe.config
+D:\Semestre V\Trabajo de Grado\Copias de BD+FormulariosVisual_BdInventario\2013-04-24 BdInventario_funciona mvto uno a uno\BdInventario\obj\x64\Debug\BdInventario.exe
+D:\Semestre V\Trabajo de Grado\Copias de BD+FormulariosVisual_BdInventario\2013-04-24 BdInventario_funciona mvto uno a uno\BdInventario\obj\x64\Debug\BdInventario.pdb
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreportedocumentos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultastock.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.MostrarMovimientos.resources
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.csprojResolveAssemblyReference.cache
+D:\Semestre V\Trabajo de Grado\BdInventario\BdInventario\obj\x64\Debug\BdInventario.csproj.GenerateResource.Cache
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\bin\x64\Debug\BdInventario.exe.config
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\bin\x64\Debug\BdInventario.exe
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\bin\x64\Debug\BdInventario.pdb
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\bin\x64\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmauditoria.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaclientes.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaempleados.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaproductos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmafp.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmactividad.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmalmacen.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmarp.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmcargos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmciudad.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmclientes.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultadocumentos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultaproveedores.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmconsultastock.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmempleados.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frminfoempresa.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmenu.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Fracceso.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmeps.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmformapago.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmgrupoempleados.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmgrupoproducto.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmimpuestos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmovimientoproducto.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmpais.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmproductos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmproveedores.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmregimen.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreporteclientes.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreportedocumentos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreportempleados.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreporteproductos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmreporteproveedores.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmsubgrupoproductos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmtipodocumentos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmtiposangre.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmunidades.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Frmusuarios.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.MostrarMovimientos.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Planticonsultas.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Plantillareportes.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Plantiparam.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Plantiterceros.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.Properties.Resources.resources
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.csproj.GenerateResource.Cache
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\RdlCompile.cache
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\RdlCompile.compiled
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.exe
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.pdb
+C:\Users\GT908144\Downloads\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.csprojResolveAssemblyReference.cache
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\bin\x64\Debug\BdInventario.exe.config
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.exe
+C:\Users\hugo.grueso\Desktop\BdInventario\BdInventario\BdInventario\obj\x64\Debug\BdInventario.pdb

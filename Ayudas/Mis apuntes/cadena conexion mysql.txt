@@ -1,0 +1,1 @@
+MySqlConnection conexion = new MySqlConnection("Server=Servidor;Database=Nombre_de_la_base_de_datos; Uid=Nombre_de_usuario;Pwd=contraseña;";);

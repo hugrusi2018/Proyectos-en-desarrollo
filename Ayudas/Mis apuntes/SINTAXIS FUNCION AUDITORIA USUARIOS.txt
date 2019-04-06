@@ -1,0 +1,22 @@
+SINTAXIS FUNCION
+
+		          	ENTRA Y SALE DEL FORMULARIO
+
+funcion.guardar_seguimiento("Entra a formulario XXXX",recibir_usuario);
+
+funcion.guardar_seguimiento("Sale de formulario XXXX",recibir_usuario);
+
+
+				APLICAR EN COMANDOS
+
+funcion.guardar_seguimiento("Intenta registrar XXXXXX", recibir_usuario);
+
+funcion.guardar_seguimiento("Actualiza registro de xxxxx", recibir_usuario);
+
+funcion.guardar_seguimiento("Registra xxxxxx", recibir_usuario);
+
+funcion.guardar_seguimiento("Intenta modificar registro de xxxxx", recibir_usuario);
+
+funcion.guardar_seguimiento("Elimina registro de xxxxx", recibir_usuario);
+
+

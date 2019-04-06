@@ -1,0 +1,100 @@
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\bin\Debug\la_tinaja.exe
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\bin\Debug\la_tinaja.pdb
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\la_tinaja.fr_inicio.resources
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\la_tinaja.Properties.Resources.resources
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\la_tinaja.exe
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+C:\Users\Windows\AppData\Local\Temporary Projects\la_tinaja\obj\x86\Debug\la_tinaja.fr_acceso.resources
+J:\INTENALCO\PROGRAMACION III\rest\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.exe
+J:\INTENALCO\PROGRAMACION III\rest\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.exe
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\bin\Debug\la_tinaja.exe
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\bin\Debug\la_tinaja.pdb
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_inicio.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_acceso.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Properties.Resources.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_menu.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pedido.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_plantilla.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.exe
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+G:\la_tinaja\la_tinaja\bin\Debug\la_tinaja.exe
+G:\la_tinaja\la_tinaja\bin\Debug\la_tinaja.pdb
+G:\la_tinaja\la_tinaja\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_inicio.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_acceso.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_igpedido.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_menu.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pedido.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_plantilla.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Properties.Resources.resources
+G:\la_tinaja\la_tinaja\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\la_tinaja\la_tinaja\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.cliente.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Resources.factura.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_factura.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_cambiocontraseña.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_parametros.resources
+D:\equipo viejo\documentos\programacion lll\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pacceso.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.exe
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+D:\Mios\juliana\la_tinaja\la_tinaja\bin\Debug\la_tinaja.exe
+D:\Mios\juliana\la_tinaja\la_tinaja\bin\Debug\la_tinaja.pdb
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.cliente.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_inicio.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_acceso.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_cambiocontraseña.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_factura.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_menu.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pacceso.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_parametros.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pedido.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_plantilla.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Properties.Resources.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Resources.factura.resources
+D:\Mios\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.csproj.GenerateResource.Cache
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.exe
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+F:\juliana\la_tinaja\la_tinaja\bin\Debug\la_tinaja.exe
+F:\juliana\la_tinaja\la_tinaja\bin\Debug\la_tinaja.pdb
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.cliente.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_inicio.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_acceso.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_cambiocontraseña.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_factura.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_menu.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pacceso.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_parametros.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pedido.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_plantilla.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Properties.Resources.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Resources.factura.resources
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\juliana\la_tinaja\la_tinaja\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Semestre IV\Programacion III\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.exe
+D:\Semestre IV\Programacion III\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.exe
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.pdb
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\bin\Debug\la_tinaja.exe
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\bin\Debug\la_tinaja.pdb
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.cliente.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_inicio.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_acceso.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_cambiocontraseña.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_factura.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_menu.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pacceso.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_parametros.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_pedido.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.fr_plantilla.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Properties.Resources.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.Resources.factura.resources
+D:\Semestre V\Trabajo de Grado\Bdjuliana\la_tinaja\la_tinaja\obj\x86\Debug\la_tinaja.csproj.GenerateResource.Cache

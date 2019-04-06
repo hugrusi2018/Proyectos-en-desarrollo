@@ -1,0 +1,1 @@
+El archivo se debe llamar logo.png para que la aplicacion la reconozca, de lo contrario hay que invocarla directamente desde la aplicacion.
